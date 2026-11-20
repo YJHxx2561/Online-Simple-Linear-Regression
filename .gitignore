@@ -1,0 +1,16 @@
+# WorkBuddy 本地数据（不提交）
+.workbuddy/
+
+# 临时文件
+.tmp-*
+*.tmp
+*.log
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 依赖目录（如后续引入构建工具）
+node_modules/
